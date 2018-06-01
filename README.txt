@@ -1,5 +1,6 @@
 # Binary-tree
 Binary tree with add, delete, inorder, preorder, postorder, count edges, count nodes, height
+NOTE: Project done in Microsoft Visual Studio (you need to comment the first #include "stdafx.h" in the first line on other compilers)
 
 Ein Binärbaum (Tree) besteht aus Knoten (Node). Ein Knoten hat einen ganzzahligen Wert und ggf. 
 Einen linken und einen rechten Sohn. 
